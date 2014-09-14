@@ -1,4 +1,4 @@
-# Go Data Structures <img src="https://golang.org/doc/gopher/gopherbw.png" alt="Go Gopher" style="height: 50px;"/>
+# Go Data Structures <img src="https://golang.org/doc/gopher/gopherbw.png" alt="Go Gopher" height="50px"/>
 
 Practice data structures written in Go (golang). These serve as an introduction into lower level languages like Go as well as an introduction to simple data structures.
 
